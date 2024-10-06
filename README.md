@@ -2,7 +2,7 @@
 - 👀 Windows ve masaüstü teknolojileri ile ilgileniyorum.
 - 🌱 Şu anda C# ve Java dillerine hakimim ve bunların yanında Web Teknolojileri konusunda kendimi geliştiriyorum.
 - 📫 Sosyal medyalardan veya profilimdeki linkten bana ulaşabilirsiniz.
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tryzereton&label=Profile%20views&color=0e75b6&style=flat" alt="tryzereton" /> </p>
 
